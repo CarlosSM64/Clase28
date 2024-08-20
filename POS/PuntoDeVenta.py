@@ -1,5 +1,6 @@
 carrito = []
 total = 0.0
+# POS
 
 def mostrar_menu():
     print("Bienvido al POS")
